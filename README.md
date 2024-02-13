@@ -3,9 +3,8 @@
 
 สำหรับรายวิชา OOP
 
-![Hello-Kitty](https://github.com/nathaphumin/nathaphumin.github.io/assets/159878340/192f35e5-2ed7-4562-95a7-094a227db2c7)
-
 ณัฐภูมินทร์ วิชาชาติ
+![Hello-Kitty](https://github.com/nathaphumin/nathaphumin.github.io/assets/159878340/192f35e5-2ed7-4562-95a7-094a227db2c7)
 
 ## คำสั่ง git basic
 ```
