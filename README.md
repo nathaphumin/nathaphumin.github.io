@@ -2,10 +2,10 @@
 # สมุดบันทึก
 
 สำหรับรายวิชา OOP
-![banner](https://www.google.com/search?q=naruto&sca_esv=088958cbf6397a90&tbm=isch&source=lnms&sa=X&ved=2ahUKEwidoOiR6KeEAxV1zjgGHW81B-8Q_AUoAXoECAIQAw&biw=1920&bih=953&dpr=1#imgrc=LS9o_Hy84JDY_M)
+
+![Hello-Kitty](https://github.com/nathaphumin/nathaphumin.github.io/assets/159878340/192f35e5-2ed7-4562-95a7-094a227db2c7)
 
 ณัฐภูมินทร์ วิชาชาติ
-
 
 ## คำสั่ง git basic
 ```
